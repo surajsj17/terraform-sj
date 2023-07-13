@@ -31,9 +31,9 @@ terraform {
 }
 
 
-# resource "aws_s3_bucket" "example" {
-#   bucket = "your-terraform-state-bucket"
-#   acl    = "private"
+resource "aws_s3_bucket" "example" {
+  bucket = "your-terraform-state-bucket"
+  acl    = "private"
 #   # ... add more configuration as needed
 # }
 
