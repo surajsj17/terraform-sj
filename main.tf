@@ -20,4 +20,4 @@ variable "instance_count" {
   description = "Number of instances to create"
   default     = 1  # Change this value as needed
 }
-}
+
