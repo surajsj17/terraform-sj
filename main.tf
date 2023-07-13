@@ -35,7 +35,7 @@ resource "aws_s3_bucket" "example" {
   bucket = "your-terraform-state-bucket"
   acl    = "private"
 #   # ... add more configuration as needed
-# }
+ }
 
 resource "aws_dynamodb_table" "lock_table" {
   name           = "your-dynamodb-lock-table"
