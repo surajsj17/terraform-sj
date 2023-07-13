@@ -1,5 +1,5 @@
   region     = "ap-south-1"
-  access_key = "AKIA2JHC6WYWHNJEGWVB"
-  secret_key = "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"
+  access_key = "AKIA2JHC6WYWMUWINJPK"
+  secret_key = "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"
 
-  Name = "macchine - 1"
+  Name = "machine - 1"
